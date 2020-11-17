@@ -1,6 +1,6 @@
 # JAVA
 写的一堆啥垃圾
-- [x] ~~Test1~~
+- [x] [~~Test1~~](https://github.com/2016WUJI01/JAVA/tree/main/Test1/src/Package_Test1)
 - [x] ~~Week2~~
 - [x] ~~Week3~~
 - [x] ~~Week3-4~~
